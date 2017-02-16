@@ -1,0 +1,11 @@
+#inner {
+    display: table;
+    margin: 0 auto;
+}
+.center {
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: #b0e0e6;
+}
